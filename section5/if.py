@@ -1,20 +1,20 @@
 # x = -10
 # x = 10
-x = 0
+x = 10
 
 if x < 0:
     print('negative')
 elif x == 0:
     print('zero')
 elif x == 10:
-    print('10000000')
+    print('1000000000000')
 elif x == 10:
     print('10')
 else:
-    print('postive')
+    print('positive')
 
-    a = 5
-    b = 10
+a = 5
+b = 10
 if a > 0:
      print('a is positive')
      if b > 0:
